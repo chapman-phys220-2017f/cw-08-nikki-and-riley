@@ -15,6 +15,9 @@ The main task this week is to make sure you are caught up on all your work, and 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
 It is useful for me to know more about SymPy, so that I can compute mathematical formulas and equations more quickly than I could by hand if I ever needed to.  It is also cool to know that Matplotlib has the ability to create GIFs and moving animations, which will be nice to use if I ever need to demonstrate waves or patterns within functions.  I don't know much about bash as opposed to python3, so I don't know how helpful %%scriptbash will be in my experience.  Is Bash another coding language, like Python or Java?
+
+**Instructor response:** Bash is the language that you use in the terminal already. The significance of having Bash in the notebook is that you can use cells in the notebook just like you use the terminal normally. Bash is indeed a full programming language, but it is optimized for file and string manipulation rather than more general tasks.
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
